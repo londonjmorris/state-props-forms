@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.jumbotron{
+  height: 180px;
+}
+
+.display-3{
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+}
+
+.card{
+  margin: 10px 0;
+}
+
+.list-group-item{
+  font-weight: bold;
+}
+
+.bg-primary{
+  color: white;
+}
+
+label{
+  font-weight: bold;
+}
